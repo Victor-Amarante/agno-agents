@@ -10,4 +10,4 @@ agent = Agent(
   tools=[TavilyTools()]
 )
 
-agent.print_response('Quantos estados tem o estado de Pernambuco no Brasil?')
+agent.print_response('Quantos estados tem o Brasil?')
